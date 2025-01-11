@@ -168,7 +168,7 @@ class _HomeScreenState extends State<HomeScreen> {
               buttonShadowColour: Colors.black26,
               isOriginalAnimation: false,
               buttonBorderColour: Colors.black26,
-              buttonIcon: Icons.search,
+              // buttonIcon: Icons.search,
               onCollapseComplete: () {
                 MyApp.getData();
                 searchController.text = '';
