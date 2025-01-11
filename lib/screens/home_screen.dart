@@ -186,7 +186,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   }
                 });
               },
-              textEditingController: searchController, trailingWidget: null, secondaryButtonWidget: null, buttonWidget: null,
+              
             ),
           ),
           const SizedBox(width: 10),
